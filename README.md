@@ -49,4 +49,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=  'https://imgur.com/a/9FGmC8r' width='' alt='Video Walkthrough' />
+<img src=  'https://github.com/Coconut-Axolotl/Parstagram/blob/master/Parstagram%20part%201.gif' width='' alt='Video Walkthrough' />
