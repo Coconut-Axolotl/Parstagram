@@ -49,4 +49,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src=  title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=  'https://imgur.com/a/9FGmC8r' width='' alt='Video Walkthrough' />
